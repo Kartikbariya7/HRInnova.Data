@@ -1,0 +1,17 @@
+D:\Personal\ZEST\Sample code of Getting Started with ASP.NET Web API 2 in VS 2017\C#\HRInnova.Data\bin\Debug\HRInnova.Data.dll.config
+D:\Personal\ZEST\Sample code of Getting Started with ASP.NET Web API 2 in VS 2017\C#\HRInnova.Data\bin\Debug\HRInnova.Data.dll
+D:\Personal\ZEST\Sample code of Getting Started with ASP.NET Web API 2 in VS 2017\C#\HRInnova.Data\bin\Debug\HRInnova.Data.pdb
+D:\Personal\ZEST\Sample code of Getting Started with ASP.NET Web API 2 in VS 2017\C#\HRInnova.Data\bin\Debug\CodeFirstStoredProcs.dll
+D:\Personal\ZEST\Sample code of Getting Started with ASP.NET Web API 2 in VS 2017\C#\HRInnova.Data\bin\Debug\EntityFramework.dll
+D:\Personal\ZEST\Sample code of Getting Started with ASP.NET Web API 2 in VS 2017\C#\HRInnova.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personal\ZEST\Sample code of Getting Started with ASP.NET Web API 2 in VS 2017\C#\HRInnova.Data\bin\Debug\EntityFramework.xml
+D:\Personal\ZEST\Sample code of Getting Started with ASP.NET Web API 2 in VS 2017\C#\HRInnova.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Personal\ZEST\Sample code of Getting Started with ASP.NET Web API 2 in VS 2017\C#\HRInnova.Data\obj\Debug\HRInnova.Data.csprojResolveAssemblyReference.cache
+D:\Personal\ZEST\Sample code of Getting Started with ASP.NET Web API 2 in VS 2017\C#\HRInnova.Data\obj\Debug\HRInnova.Data.dll
+D:\Personal\ZEST\Sample code of Getting Started with ASP.NET Web API 2 in VS 2017\C#\HRInnova.Data\obj\Debug\HRInnova.Data.pdb
+D:\dotnet\HRInnova.Data\bin\Debug\HRInnova.Data.dll.config
+D:\dotnet\HRInnova.Data\bin\Debug\HRInnova.Data.dll
+D:\dotnet\HRInnova.Data\bin\Debug\HRInnova.Data.pdb
+D:\dotnet\HRInnova.Data\obj\Debug\HRInnova.Data.csproj.CoreCompileInputs.cache
+D:\dotnet\HRInnova.Data\obj\Debug\HRInnova.Data.dll
+D:\dotnet\HRInnova.Data\obj\Debug\HRInnova.Data.pdb
