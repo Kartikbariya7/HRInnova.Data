@@ -1,12 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data.Entity;
+using CodeFirstStoredProcs;
+using Cygnet.Projman.EFData.StoredProcedure.Parameters;
+using Cygnet.Projman.EFData.StoredProcedure.Results;
+using HRInnova.Data.Parameters;
+using HRInnova.Data.Results;
 
 namespace HRInnova.Data.Context
 {
-    class DimattendancemonthlyContext
+    public class DimattendancemonthlyContext : DbContext
     {
+        [StoredProcAttributes.Name("Attendance_Workweek")]
+        [StoredProcAttributes.ReturnTypes(typeof(DimattendancemonthlyResult))]
+        public StoredProc<DimattendancemonthlyParameter> dimattendancemonthly { get; set; }
+        public DimattendancemonthlyContext()
+            : base("Name=Context")
+        {
+            this.InitializeStoredProcs();
+        }
     }
 }
